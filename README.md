@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/pedro-mlourenco/Healthify">
-    <img src="/tree/main/Web/images/logo.png" alt="Logo" width="80" height="80" style="border-radius: 30%">
+  <a href="https://github.com/pedro-mlourenco/Healthify.git">
+    <img src="logo.png" alt="Logo" width="80" height="80" style="border-radius: 30%">
   </a>
 
 <h3 align="center">Healthify Platform</h3>
