@@ -64,7 +64,7 @@ The Healthify system consists of two main components:
 Pedro M Lourenço - pedrolourenco.me@gmail.com
 
 Project Links:
-- Web Platform: [https://github.com/pedro-mlourenco/Healthify-Web.git](https://github.com/pedro-mlourenco/Healthify-Web.git)
-- Mobile Platform: [https://github.com/pedro-mlourenco/Healthify-Mobile.git](https://github.com/pedro-mlourenco/Healthify-Mobile.git)
+- Web Platform: [https://github.com/pedro-mlourenco/Healthify/tree/main/Web](https://github.com/pedro-mlourenco/Healthify/tree/main/Web)
+- Mobile Platform: [https://github.com/pedro-mlourenco/Healthify/tree/main/Mobile](https://github.com/pedro-mlourenco/Healthify/tree/main/Mobile)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
