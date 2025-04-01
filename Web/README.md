@@ -9,6 +9,7 @@
 
   <p align="center">
     Healthify Platform for restaurants is a comprehensive solution that allows restaurants to efficiently manage bookings, inventory, kitchen orders, and employees, while seamlessly integrating with an Android app for clients and employees.
+  </p>
 </div>
 
 <details>

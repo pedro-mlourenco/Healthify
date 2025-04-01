@@ -1,13 +1,38 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/pedro-mlourenco/Healthify/Mobile.git">
+  <a href="https://github.com/pedro-mlourenco/Healthify/tree/main/Mobile">
     <img src="app\src\main\ic_healthify-playstore.png" alt="Logo" width="80" height="80" style="border-radius: 30%">
   </a>
 
 <h3 align="center">Healthify Android Platform</h3>
-
+<p align="center">
+    Healthify Platform for restaurants is a comprehensive solution that allows restaurants to efficiently manage bookings, inventory, kitchen orders, and employees, while seamlessly integrating with an Android app for clients and employees.
+  </p>
 </div>
+
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#platform-usage">Platform Usage</a>
+      <ul>
+        <li><a href="#booking-management">Booking Management</a></li>
+        <li><a href="#inventory-control">Inventory Control</a></li>
+        <li><a href="#kitchen-order-system">Kitchen Order System</a></li>
+        <li><a href="#employee-management">Employee Management</a></li>
+        <li><a href="#integration-features">Integration Features</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
 
 ## Getting Started
 
