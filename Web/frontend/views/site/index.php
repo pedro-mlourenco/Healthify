@@ -129,7 +129,7 @@ $this->title = 'Healthify - Home';
 
             <?php
             echo Map::widget([
-                'apiKey' => 'AIzaSyAOCUfqhElo0SkrlYTNRiZ3dpLrYjiICzY',
+                'apiKey' => 'Add your own Google Maps API key here',
                 'zoom' => 16,
                 'center' => 'Red Square',
                 'width' => '700px',
