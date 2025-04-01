@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/pedro-mlourenco/Healthify/tree/main/Web">
-    <img src="/images/logo.png" alt="Logo" width="80" height="80" style="border-radius: 30%">
+    <img src="images/logo.png" alt="Logo" width="80" height="80" style="border-radius: 30%">
   </a>
 
 <h3 align="center">Healthify Web Platform</h3>
